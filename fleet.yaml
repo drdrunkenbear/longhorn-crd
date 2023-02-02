@@ -3,4 +3,4 @@ helm:
   repo: https://charts.longhorn.io
   chart: longhorn
   releaseName: longhorn
-  version: v1.4.0
+  version: v1.3.2
